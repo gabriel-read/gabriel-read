@@ -1,114 +1,99 @@
-<div align="center">
-
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · gabriel-read</sub></p>
+<td width="72%" valign="middle">
+<p><sub>MATEMÁTICAS APLICADAS · RIESGO FINANCIERO · ANÁLISIS DE DATOS</sub></p>
 <h1>Gabriel Read</h1>
-<h2>Backend or systems engineer</h2>
-<p>I am a mathematician from INTEC, focused on Financial Risk, Compliance &amp; Data Analytics. I work with Python &amp; SQL.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Distrito Nacional, Dominican Republic</sub></p>
-<p><a href="https://github.com/gabriel-read">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/gabriel-read/">Website</a></p>
+<h3>Modelos cuantitativos para entender el riesgo y apoyar decisiones</h3>
+<p>Soy matemático de INTEC, con enfoque en riesgo financiero, cumplimiento y análisis de datos. Trabajo con Python y SQL, y desarrollo proyectos que conectan métodos estadísticos con problemas financieros y actuariales.</p>
+<p><sub>Distrito Nacional, República Dominicana</sub></p>
+<p><a href="https://www.linkedin.com/in/gabriel-read/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/gabriel-read?tab=repositories">Repositorios</a></p>
 </td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/183621557?u=fdfab59587a4d42110e2a3be12bcc9cc02349310&amp;v=4" width="180" alt="Gabriel Read GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python · TeX · Lua</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 3 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>133 contributions · 15 active days</p></td>
-</tr>
-</table>
-
-<p><sub>I am a mathematician from INTEC, focused on Financial Risk, Compliance &amp; Data Analytics. I work with Python &amp; SQL.</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>133</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Gabriel Read GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&repos=gabriel-read%2Funsupervised-aml-clustering-kdd%2Cgabriel-read%2Fblackscholevsheston-option-valuation%2Cgabriel-read%2Fproyectos_actuariales_varios%2Cgabriel-read%2Friesgo-credito-macro&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&repos=gabriel-read%2Funsupervised-aml-clustering-kdd%2Cgabriel-read%2Fblackscholevsheston-option-valuation%2Cgabriel-read%2Fproyectos_actuariales_varios%2Cgabriel-read%2Friesgo-credito-macro&v=recruiter-projects-1&mode=dark" width="100%" alt="Gabriel Read selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/gabriel-read/unsupervised-aml-clustering-kdd">unsupervised-aml-clustering-kdd</a></h3>
-<p>Unsupervised learning model (K-Means) for Anti-Money Laundering (AML) anomaly detection, featuring spatial risk clustering and SPSS ANOVA validation.</p>
-<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/gabriel-read/unsupervised-aml-clustering-kdd">Read the repository →</a></p>
+<td width="28%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/183621557?v=4" width="160" alt="Foto de perfil de Gabriel Read" />
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/gabriel-read/blackscholevsheston-option-valuation">blackscholevsheston-option-valuation</a></h3><p>Comparativa cuantitativa entre Black-Scholes y el modelo de Heston para la valoración dinámica de opciones y optimización de coberturas en Python.</p><p><sub>Python · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/gabriel-read/proyectos_actuariales_varios">proyectos_actuariales_varios</a></h3><p>Suite de mini-proyectos actuariales (Python + Streamlit) para valoración de seguros de muerte y pensiones: tablas de mortalidad, funciones conmutadas</p><p><sub>Python · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/gabriel-read/riesgo-credito-macro">riesgo-credito-macro</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Gabriel Read technology stack" />
-</picture>
-</p>
+## Áreas de enfoque
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>Python</strong><br /><sub>98% of public code</sub></td>
-<td width="25%" align="center"><strong>TeX</strong><br /><sub>1% of public code</sub></td>
-<td width="25%" align="center"><strong>Lua</strong><br /><sub>1% of public code</sub></td>
-<td width="25%" align="center"><strong>Jupyter Notebook</strong><br /><sub>1% of public code</sub></td>
+<td width="33%" valign="top">
+<h3>Riesgo financiero</h3>
+<p>Valoración de opciones, sensibilidad a la volatilidad y análisis de coberturas.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Analítica para cumplimiento</h3>
+<p>Segmentación transaccional y exploración de anomalías mediante aprendizaje no supervisado.</p>
+</td>
+<td width="34%" valign="top">
+<h3>Modelación actuarial</h3>
+<p>Valoración de seguros y pensiones mediante tablas de mortalidad y funciones conmutadas.</p>
+</td>
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gabriel-read&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183621557%3Fu%3Dfdfab59587a4d42110e2a3be12bcc9cc02349310%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Gabriel Read contribution activity" />
-</picture>
-</p>
-
-<hr />
+## Proyectos destacados
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/gabriel-read">GitHub</a><br /><a href="https://linkedin.com/in/gabriel-read/">Website</a></td>
+<td width="50%" valign="top">
+<p><sub>FINANZAS CUANTITATIVAS</sub></p>
+<h3><a href="https://github.com/gabriel-read/blackscholevsheston-option-valuation">Valoración de opciones: Black-Scholes vs. Heston</a></h3>
+<p>Comparación de modelos de valoración de opciones europeas y exploración del efecto de la volatilidad sobre el precio y las sensibilidades de una cartera.</p>
+<p>Incluye simulación Monte Carlo, análisis de coberturas y escenarios de costos de transacción.</p>
+<p><sub>Python · NumPy · SciPy · Plotly · Streamlit</sub></p>
+<p><a href="https://github.com/gabriel-read/blackscholevsheston-option-valuation">Ver código y documentación →</a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>ANALÍTICA AML</sub></p>
+<h3><a href="https://github.com/gabriel-read/unsupervised-aml-clustering-kdd">Segmentación transaccional con K-Means</a></h3>
+<p>Ejercicio académico de análisis de patrones transaccionales mediante estandarización de variables, agrupamiento y exploración de observaciones atípicas.</p>
+<p>Utiliza datos sintéticos e incluye una guía de reproducción del análisis en SPSS.</p>
+<p><sub>Python · K-Means · Estandarización · IBM SPSS Statistics</sub></p>
+<p><a href="https://github.com/gabriel-read/unsupervised-aml-clustering-kdd">Ver código y metodología →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub>MATEMÁTICA ACTUARIAL</sub></p>
+<h3><a href="https://github.com/gabriel-read/proyectos_actuariales_varios">Calculadora de seguros y pensiones</a></h3>
+<p>Aplicación para explorar la valoración de seguros de muerte y pensiones de supervivencia a partir de tablas de mortalidad y funciones conmutadas.</p>
+<p>Incluye datos ficticios y una interfaz interactiva para consultar los cálculos.</p>
+<p><sub>Python · Streamlit · Tablas de mortalidad · Funciones conmutadas</sub></p>
+<p><a href="https://github.com/gabriel-read/proyectos_actuariales_varios">Ver código y documentación →</a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>INVESTIGACIÓN ACADÉMICA · INTEC</sub></p>
+<h3><a href="https://github.com/gabriel-read/riesgo-credito-macro">Riesgo de crédito y macroeconomía</a></h3>
+<p>Investigación sobre la asociación entre el ciclo macroeconómico, la política monetaria de Estados Unidos y la morosidad bancaria.</p>
+<p>El repositorio documenta la pregunta de investigación y la organización del trabajo para estudiar sus implicaciones en la gestión del riesgo de crédito.</p>
+<p><sub>Riesgo de crédito · Macroeconomía · Investigación reproducible</sub></p>
+<p><a href="https://github.com/gabriel-read/riesgo-credito-macro">Explorar el proyecto →</a></p>
+</td>
 </tr>
 </table>
 
-<p align="center"><sub>Gabriel Read · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Herramientas y métodos
+
+| Área | Herramientas y métodos |
+| :--- | :--- |
+| Programación y datos | Python · SQL |
+| Cálculo y análisis numérico | NumPy · SciPy · Simulación Monte Carlo |
+| Análisis estadístico | K-Means · Estandarización de variables · IBM SPSS Statistics |
+| Visualización y aplicaciones | Plotly · Matplotlib · Streamlit |
+| Finanzas y actuaría | Valoración de opciones · Sensibilidades y coberturas · Tablas de mortalidad |
+
+## Formación
+
+**Matemáticas · Instituto Tecnológico de Santo Domingo (INTEC)**
+
+Mis proyectos públicos exploran aplicaciones de las matemáticas y la estadística en finanzas, cumplimiento y actuaría. Cada repositorio enlazado permite revisar su planteamiento, metodología y documentación.
+
+---
+
+### Contacto
+
+Para conversar sobre mi perfil y proyectos en riesgo financiero, analítica de datos o cumplimiento, puedes contactarme por [LinkedIn](https://www.linkedin.com/in/gabriel-read/).
+
+<p align="center"><sub>Gabriel Read · Diseño adaptado de <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
