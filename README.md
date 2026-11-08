@@ -95,5 +95,3 @@ Mis proyectos públicos exploran aplicaciones de las matemáticas y la estadíst
 ### Contacto
 
 Para conversar sobre mi perfil y proyectos en riesgo financiero, analítica de datos o cumplimiento, puedes contactarme por [LinkedIn](https://www.linkedin.com/in/gabriel-read/).
-
-<p align="center"><sub>Gabriel Read · Diseño adaptado de <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
