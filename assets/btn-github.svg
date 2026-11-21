@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="52" viewBox="0 0 320 52" role="img" aria-label="GITHUB @gabriel-read">
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}</style>
+  <rect x=".5" y=".5" width="319" height="51" rx="12" fill="#060a13" stroke="#1c2947"/>
+  <circle cx="24" cy="26" r="4" fill="#3b82f6"/>
+  <text x="40" y="31" class="m" font-size="11" letter-spacing="2.5" fill="#5b6b8c">GITHUB</text>
+  <text x="124" y="31" class="m" font-size="14" fill="#93c5fd">@gabriel-read</text>
+  <text x="302" y="31" class="m" font-size="14" fill="#3b82f6" text-anchor="end">↗</text>
+</svg>
