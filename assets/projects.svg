@@ -43,21 +43,21 @@
     <circle cx="600" cy="250" r="88" fill="none" stroke="#3b82f6" stroke-opacity=".35" stroke-dasharray="2 10" class="orbit"/>
     <text x="600" y="246" font-size="15" font-weight="700" fill="#93c5fd" text-anchor="middle">AML</text>
     <text x="600" y="266" font-size="11" fill="#6b7fa6" text-anchor="middle">K-Means</text>
-    <text x="600" y="364" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">unsupervised-aml-clustering</text>
+    <text x="600" y="364" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">unsupervised-aml-clustering-kdd</text>
     <text x="600" y="386" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · unsupervised AML detection</text>
 
     <!-- options -->
     <circle cx="250" cy="220" r="44" fill="none" stroke="#3b82f6" class="halo" style="animation-delay:.8s"/>
     <circle cx="250" cy="220" r="34" fill="#0b1730" stroke="#2b4a86"/>
     <text x="250" y="225" font-size="13" font-weight="700" fill="#93c5fd" text-anchor="middle">σ(t)</text>
-    <text x="250" y="292" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">blackscholesvsheston-options</text>
+    <text x="250" y="292" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">blackscholesvsheston-option-valuation</text>
     <text x="250" y="314" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · Black-Scholes vs Heston</text>
 
     <!-- var -->
     <circle cx="960" cy="190" r="40" fill="none" stroke="#f97316" class="halo" style="animation-delay:1.6s"/>
     <circle cx="960" cy="190" r="30" fill="#1f140b" stroke="#7c2d12"/>
     <text x="960" y="195" font-size="13" font-weight="700" fill="#fb923c" text-anchor="middle">VaR</text>
-    <text x="960" y="256" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">proyectos_actuariales_var</text>
+    <text x="960" y="256" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">proyectos_actuariales_varios</text>
     <text x="960" y="278" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · actuarial mini-projects</text>
 
     <!-- profile -->

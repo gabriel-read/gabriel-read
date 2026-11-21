@@ -38,13 +38,13 @@
       <circle cx="120" cy="212" r="16" fill="#1f140b" stroke="#f97316"/>
       <text x="120" y="217" font-size="11" font-weight="700" fill="#fb923c" text-anchor="middle">01</text>
       <text x="104" y="150" font-size="11" letter-spacing="2" fill="#5b6b8c">JAN 2026</text>
-      <text x="104" y="174" font-size="14" font-weight="700" fill="#e6edf7">proyectos_actuariales_var</text>
+      <text x="104" y="174" font-size="14" font-weight="700" fill="#e6edf7">proyectos_actuariales_varios</text>
     </g>
     <!-- 2 -->
     <g class="stop" style="animation-delay:1s">
       <circle cx="440" cy="212" r="16" fill="#0b1730" stroke="#3b82f6"/>
       <text x="440" y="217" font-size="11" font-weight="700" fill="#93c5fd" text-anchor="middle">02</text>
-      <text x="440" y="256" font-size="14" font-weight="700" fill="#e6edf7" text-anchor="middle">unsupervised-aml-clustering</text>
+      <text x="440" y="256" font-size="14" font-weight="700" fill="#e6edf7" text-anchor="middle">unsupervised-aml-clustering-kdd</text>
       <text x="440" y="278" font-size="11" fill="#6b7fa6" text-anchor="middle">K-Means for AML detection</text>
       <text x="440" y="302" font-size="11" letter-spacing="2" fill="#5b6b8c" text-anchor="middle">MAR 2026</text>
     </g>
@@ -53,7 +53,7 @@
       <circle cx="760" cy="212" r="16" fill="#0b1730" stroke="#3b82f6"/>
       <text x="760" y="217" font-size="11" font-weight="700" fill="#93c5fd" text-anchor="middle">03</text>
       <text x="760" y="150" font-size="11" letter-spacing="2" fill="#5b6b8c" text-anchor="middle">MAR 2026</text>
-      <text x="760" y="174" font-size="14" font-weight="700" fill="#e6edf7" text-anchor="middle">blackscholesvsheston-options</text>
+      <text x="760" y="174" font-size="14" font-weight="700" fill="#e6edf7" text-anchor="middle">blackscholesvsheston-option-valuation</text>
     </g>
     <!-- 4 -->
     <g class="stop" style="animation-delay:2.2s">
