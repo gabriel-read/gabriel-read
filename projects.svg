@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Project map — featured repositories">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#111a30" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#1e3a8a" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#0b1730" stop-opacity=".9"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="420" rx="22"/></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+      .lbl{font-size:12px;letter-spacing:3px;fill:#5b6b8c}
+      .link{stroke-dasharray:4 6;animation:flow 3s linear infinite}
+      .halo{transform-box:fill-box;transform-origin:center;animation:breathe 3.6s ease-in-out infinite}
+      .orbit{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-40}}
+      @keyframes breathe{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.7;transform:scale(1.08)}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#060a13"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="419" rx="22" fill="none" stroke="#1c2947"/>
+
+  <text x="56" y="56" class="mono lbl">PROJECT MAP / FEATURED REPOSITORIES</text>
+  <text x="56" y="96" class="mono" font-size="26" font-weight="700" fill="#e6edf7">Where the math meets the code</text>
+  <line x1="56" y1="120" x2="1144" y2="120" stroke="#1c2947" stroke-dasharray="6 6"/>
+
+  <!-- links -->
+  <g fill="none" stroke="#3b82f6" stroke-opacity=".55" stroke-width="1.2">
+    <path class="link" d="M600 250 C470 250 360 220 250 220"/>
+    <path class="link" d="M600 250 C740 250 860 200 925 192"/>
+    <path class="link" d="M600 250 C720 280 800 340 878 350"/>
+  </g>
+
+  <g class="mono">
+    <!-- core -->
+    <circle cx="600" cy="250" r="78" fill="none" stroke="#3b82f6" class="halo"/>
+    <circle cx="600" cy="250" r="64" fill="url(#core)" stroke="#2b4a86"/>
+    <circle cx="600" cy="250" r="88" fill="none" stroke="#3b82f6" stroke-opacity=".35" stroke-dasharray="2 10" class="orbit"/>
+    <text x="600" y="246" font-size="15" font-weight="700" fill="#93c5fd" text-anchor="middle">AML</text>
+    <text x="600" y="266" font-size="11" fill="#6b7fa6" text-anchor="middle">K-Means</text>
+    <text x="600" y="364" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">unsupervised-aml-clustering</text>
+    <text x="600" y="386" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · unsupervised AML detection</text>
+
+    <!-- options -->
+    <circle cx="250" cy="220" r="44" fill="none" stroke="#3b82f6" class="halo" style="animation-delay:.8s"/>
+    <circle cx="250" cy="220" r="34" fill="#0b1730" stroke="#2b4a86"/>
+    <text x="250" y="225" font-size="13" font-weight="700" fill="#93c5fd" text-anchor="middle">σ(t)</text>
+    <text x="250" y="292" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">blackscholesvsheston-options</text>
+    <text x="250" y="314" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · Black-Scholes vs Heston</text>
+
+    <!-- var -->
+    <circle cx="960" cy="190" r="40" fill="none" stroke="#f97316" class="halo" style="animation-delay:1.6s"/>
+    <circle cx="960" cy="190" r="30" fill="#1f140b" stroke="#7c2d12"/>
+    <text x="960" y="195" font-size="13" font-weight="700" fill="#fb923c" text-anchor="middle">VaR</text>
+    <text x="960" y="256" font-size="15" font-weight="700" fill="#e6edf7" text-anchor="middle">proyectos_actuariales_var</text>
+    <text x="960" y="278" font-size="12" fill="#6b7fa6" text-anchor="middle">Python · actuarial mini-projects</text>
+
+    <!-- profile -->
+    <circle cx="900" cy="350" r="24" fill="#16123a" stroke="#4c1d95"/>
+    <text x="900" y="355" font-size="12" font-weight="700" fill="#a78bfa" text-anchor="middle">GR</text>
+    <text x="936" y="347" font-size="14" font-weight="700" fill="#e6edf7">gabriel-read</text>
+    <text x="936" y="367" font-size="12" fill="#6b7fa6">this profile · open source</text>
+  </g>
+</svg>
